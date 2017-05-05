@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=adbtoolkitinstall
+name=ADB & Fastboot Tools
+version=v1.2
+versionCode=3
+author=crixec & SkyWu
+description=Install adb and fastboot tools for your devices.
 template=3

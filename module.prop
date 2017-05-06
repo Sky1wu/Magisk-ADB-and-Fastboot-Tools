@@ -1,7 +1,7 @@
 id=adbtoolkitinstall
 name=ADB & Fastboot Tools
-version=v1.2
-versionCode=3
-author=crixec & SkyWu
+version=v1.3
+versionCode=4
+author=Crixec & SkyWu
 description=Install adb and fastboot tools for your devices.
 template=3
